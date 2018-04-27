@@ -1,3 +1,7 @@
+#Vita Brando
+
+*Athens DJ and Producer
+
 ## About Me
 
 My name is Brandon Hyeung, currently a 3rd year MIS & Music Business student here at UGA, and I was curious if your restaurant was hiring new DJs. 
