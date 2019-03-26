@@ -1,3 +1,7 @@
+---
+layout: null
+sitemap: false
+---
 User-agent: *
-Sitemap: https://spring-bat.cloudvent.net//sitemap.xml
+Sitemap: {{ site.url }}/sitemap.xml
 Disallow: /contact-success/
