@@ -24,18 +24,4 @@ recipe:
     6. Cool on a wire rack and keep in an airtight container once cold.
 ---
 
-These are traditionally a very hard crisp cookie made for dunking into tea or coffee. The bigger you make the balls the crunchier the end result. Can be edited!
-
-![Cookie](https://source.unsplash.com/euGck1ifvp0)
-
-Carefully placing them on the tray.
-
-![Cookie](https://source.unsplash.com/RUPPakds28k)
-
-Little Gavin loves them.
-
-![Cookie](https://source.unsplash.com/YnrSLOAjOEA)
-
-Delicious!
-
-Edit old blog post!
+Hi, my name is Brandon Hyeung.
