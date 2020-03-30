@@ -22,13 +22,13 @@ time {
 
 header {
   text-align: center;
-  padding: 80px 0 60px 0; }
+  padding: 80px 0 60px; }
 
 img {
   max-width: 100%; }
 
 ol li + li {
-  margin: 20px 0 0 0; }
+  margin: 20px 0 0; }
 
 footer {
   color: #999;
@@ -49,7 +49,7 @@ a {
   margin: 0 auto; }
 
 .main-content {
-  padding: 0 30px 50px 30px; }
+  padding: 0 30px 50px; }
   @media (min-width: 900px) {
     .main-content {
       display: flex; } }
@@ -64,7 +64,7 @@ a {
   .post h1 a:hover {
     text-decoration: underline; }
 .post time {
-  padding: 0 0 20px 0;
+  padding: 0 0 20px;
   display: block; }
 .post .recipe-overview {
   padding: 0;
@@ -101,7 +101,7 @@ a {
     margin-left: 34px; }
     .post .recipe-contents ol li:before {
       content: counter(step-counter);
-      margin-right: 0px;
+      margin-right: 0;
       background-color: #ff4e4e;
       color: white;
       /* padding: 1px 7px; */
@@ -119,10 +119,10 @@ a {
     flex: 1; } }
 
 .post + .post {
-  margin: 65px 0 50px 0; }
+  margin: 65px 0 50px; }
 
 .sharing {
-  margin: 50px 0 0 0;
+  margin: 50px 0 0;
   text-align: center;
   font-size: 0; }
   .sharing a {
@@ -169,7 +169,7 @@ a {
 
 .pagination {
   text-align: center;
-  margin: 50px 0 0 0; }
+  margin: 50px 0 0; }
 
 .take-me {
   float: right; }
@@ -179,7 +179,7 @@ a {
 
 .cta {
   text-align: center;
-  padding: 50px 0 0 0; }
+  padding: 50px 0 0; }
 
 .button, input[type="submit"] {
   background: #fff;
@@ -225,7 +225,7 @@ textarea {
   height: 150px; }
 
 label {
-  margin: 20px 0 5px 0;
+  margin: 20px 0 5px;
   display: block; }
 
 ::-webkit-input-placeholder {
@@ -293,7 +293,7 @@ nav {
 
 .sidebar {
   width: 250px;
-  padding: 70px 0 0 0;
+  padding: 70px 0 0;
   margin: 0 auto; }
   @media (min-width: 900px) {
     .sidebar {
@@ -307,11 +307,11 @@ nav {
     .sidebar .author img {
       width: 200px;
       border-radius: 200px;
-      margin: 0 0 10px 0; }
+      margin: 0 0 10px; }
   .sidebar .social-icons {
     display: flex;
     justify-content: center;
-    margin: 10px 0 0 0; }
+    margin: 10px 0 0; }
     .sidebar .social-icons a {
       padding: 3px;
       text-decoration: none; }
@@ -382,7 +382,7 @@ nav {
 
 .cms-editor-active .sidebar .editor-link {
   display: inline-block;
-  margin: 0 auto 20px auto;
+  margin: 0 auto 20px;
   padding: 10px 20px; }
 
 /**
